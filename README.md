@@ -1,9 +1,3 @@
----
-title: Home
-nav: Home
-toc: true
----
-
 # GCP-PCA-study-material
 This repository aims to be used as a gradle to prepare for the Google Cloud Platform Professional Cloud Architect Certification preparation
 
@@ -34,3 +28,5 @@ By the time you reach the end of this guide, you'll be speaking fluent Google Cl
 So, are you ready to embark on this cloud adventure? Buckle up, grab your favorite caffeinated beverage, and let's dive in! Your journey to becoming a certified Google Cloud Professional Cloud Architect starts now.
 
 Good luck, future cloud maestro – you've got this! 🚀☁️
+
+[Google Cloud Professional Cloud Architect (PCA) Exam Notes – Part I ➡️](<Part 1.md>)
