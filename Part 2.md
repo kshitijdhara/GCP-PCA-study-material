@@ -253,3 +253,5 @@ There really is no load balancer, you’re really manipulating the SDN control p
 - [GCP Loadbalancing](https://cloud.google.com/load-balancing)
 - [GCP Static IP Setup Guide](https://sudipta-deb.in/2022/11/how-do-i-setup-a-static-ip-with-google-cloud.html)
 - [Google domains: How To](https://kinsta.com/blog/google-domains-review/)
+
+[Google Cloud Security: Protecting Your Digital Assets ➡️](<Part 3.md>)
