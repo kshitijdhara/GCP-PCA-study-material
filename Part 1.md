@@ -322,3 +322,6 @@ By understanding these concepts and tools, you're well on your way to mastering 
 -  [Cloud Security Alliance](https://cloudsecurityalliance.org/)
 -  [Azure Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 -  [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+-  
+
+[Google Cloud Networking: A Comprehensive Overview](<Part 2.md>)
