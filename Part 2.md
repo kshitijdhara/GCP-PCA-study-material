@@ -1,7 +1,33 @@
 # Google Cloud Networking: A Comprehensive Overview
 
-## General Notes
+- [Google Cloud Networking: A Comprehensive Overview](#google-cloud-networking-a-comprehensive-overview)
+  - [General Notes](#general-notes)
+    - [Google's Unique Network Approach:](#googles-unique-network-approach)
+    - [Global Load Balancing Made Easy:](#global-load-balancing-made-easy)
+    - [Traffic Costs:](#traffic-costs)
+    - [Google's Worldwide Network:](#googles-worldwide-network)
+    - [Flexible Networks:](#flexible-networks)
+    - [Subnets Across Zones:](#subnets-across-zones)
+    - [Reserved IP Addresses:](#reserved-ip-addresses)
+    - [Network Design Tips:](#network-design-tips)
+  - [Google's Unique Network Architecture](#googles-unique-network-architecture)
+  - [VPC Firewall: Your Cloud Security Guard](#vpc-firewall-your-cloud-security-guard)
+  - [VPC Routing: Your Cloud Traffic Director](#vpc-routing-your-cloud-traffic-director)
+  - [VPC and Subnet Design](#vpc-and-subnet-design)
+    - [VPC Firewall Rules](#vpc-firewall-rules)
+  - [Internal Networking Products](#internal-networking-products)
+    - [VPC Connectivity Options:](#vpc-connectivity-options)
+      - [Additional Networking Features:](#additional-networking-features)
+      - [Key Considerations:](#key-considerations)
+  - [External Load Balancers](#external-load-balancers)
+    - [Network Load Balancers](#network-load-balancers)
+    - [We don’t use DNS-Based Global Load Balancing because:](#we-dont-use-dns-based-global-load-balancing-because)
+    - [Google Global Load Balancer (Layer 7)](#google-global-load-balancer-layer-7)
+  - [Internal Load Balancers](#internal-load-balancers)
+    - [L4 Regional Load Balancer](#l4-regional-load-balancer)
+  - [Additional Links](#additional-links)
 
+## General Notes
 ### Google's Unique Network Approach:
 Most internet providers send data through the network point closest to where it's going. Google does it differently - they route data through the network point closest to where it's coming from. This is a big deal and sets Google apart from others.
 
