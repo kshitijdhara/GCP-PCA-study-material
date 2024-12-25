@@ -29,4 +29,6 @@ So, are you ready to embark on this cloud adventure? Buckle up, grab your favori
 
 Good luck, future cloud maestro – you've got this! 🚀☁️
 
+[About the exam](<About the exam.md>)
+
 [Google Cloud Professional Cloud Architect (PCA) Exam Notes – Part I ➡️](<Part 1.md>)
