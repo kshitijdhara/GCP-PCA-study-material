@@ -94,3 +94,4 @@ Remember, each of these options comes with different levels of control and respo
 - [Google Cloud Filestore](https://cloud.google.com/filestore?hl=en)
 - [Transfer Appliances for Simple, Secure, Performant Data Movement](https://cloud.google.com/blog/products/storage-data-transfer/transfer-appliances-for-simple-secure-performant-data-movement)
 
+[Computing in Google Cloud](<Part 5.md>)💻
