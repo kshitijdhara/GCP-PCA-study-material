@@ -317,3 +317,6 @@ These tools collectively provide a comprehensive security management suite for G
 - [Web Security Scanner](https://cloud.google.com/security-command-center/docs/concepts-web-security-scanner-overview)
 - [Google CLoud Armour](https://www.pluralsight.com/resources/blog/cloud/google-cloud-armor)
 - [Organizational Policy Overview](https://cloud.google.com/resource-manager/docs/organization-policy/overview)
+- [Google Cloud Security Command Center](https://cloud.google.com/security-command-center/docs/concepts-security)
+
+[Storage](<Part 4.md>) ➡️
